@@ -1,0 +1,29 @@
+.services-container img {
+    height: 200px;
+  
+}
+.caption-post-section.text-center p {
+    color: #abd19a;
+    font-weight: 800;
+    padding: 10px 0;
+}
+.caption-post-section.text-center h4 {
+    color: black;
+    font-size: 20px;
+    position: relative;
+    bottom: 12px;
+}
+.caption-post-section.text-center h6 {
+    color: rgb(218, 218, 218);
+    font-weight: 300;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 22px;
+}
+.card-section {
+    padding: 35px 20px;
+    background: #10111187;
+    border-radius: 10px;
+    
+    margin: 0 11px;
+}
